@@ -92,7 +92,7 @@ def show_results_in_table(results):
 
     # Кнопка для сортировки
     sort_button = tk.Button(result_window, text="Сортировать", command=lambda: sort_results(tree, results, sort_var.get()), font=('Helvetica', 10))
-    sort_button.grid(row=2, column=0, padx=5, pady=5)  # Размещаем кнопку в том же ряду, но в следующем столбце
+    sort_button.grid(row=2, column=0, padx=5, pady=5)  # Размещаем кнопку в следующем ряду
 
 
 # Функция для сортировки результатов
