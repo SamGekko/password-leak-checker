@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/samgekko/password-leak-checker.git
+   git clone https://github.com/SamGekko/password-leak-checker.git
    cd password-leak-checker
 
 2. Установите зависимости:
