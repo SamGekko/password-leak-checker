@@ -1,0 +1,4 @@
+requests==2.28.1
+tkinter==0.1.0
+hashlib==0.1.0
+concurrent.futures==3.1.1
