@@ -35,4 +35,4 @@
 
 ## Пример вывода:
 1. По умолчанию:
-![plot](.default_output.png)
+![plot](default_output.png)
